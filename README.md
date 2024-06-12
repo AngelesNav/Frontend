@@ -25,7 +25,20 @@ SoloEstudio es una aplicación diseñada para mejorar la experiencia de estudio 
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
+
+```bash
    git clone https://github.com/tu-usuario/soloestudio.git
    cd soloestudio
+```
+2.Instala las dependencias:
 
+```bash
+   Copiar código
+   npm install
+```
+3.Inicia la aplicación:
+   
+ ```bash
+   Copiar código
+   npm start
+ ```
